@@ -1,5 +1,7 @@
 <!--
-  SEO KEYWORDS: Car Rental Booking App, MERN Stack Car Rental, Vehicle Booking Platform Pakistan,
+  SEO KEYWORDS: Innoze, Innoze Tech, Innoze Tech Solutions, InnozeTech,
+  innoze github, innoze tech github, innoze tech solutions github, 
+  Car Rental Booking App, MERN Stack Car Rental, Vehicle Booking Platform Pakistan,
   Full Stack Car Rental System, React Car Rental, Node.js Booking System, MongoDB Vehicle Rental,
   Online Car Booking Website, Car Rental Management System, Owner Dashboard Car Rental,
   MERN Stack Pakistan, Custom Booking Platform, Innoze, Innoze Tech, Software House Pakistan,
